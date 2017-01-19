@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## 0.3.0 - 2017-01-19
+
+### Added
+
+  - Python package setup, configuration, manifest and manage script.
+  - Python package reStructuredText README.
+
 ## 0.2.0 - 2017-01-18
 
 ### Added
