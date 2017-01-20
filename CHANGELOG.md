@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - Polls service module structure.
+  - Polls service module templates.
+  - Polls service module assets.
+  - Polls service module migrations.
+  - Polls service module tests.
+
 ## 0.3.0 - 2017-01-19
 
 ### Added
